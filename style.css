@@ -1,0 +1,14 @@
+form {
+    width: 600px;
+    text-align: center;
+
+    border: solid black 1px; height: auto; width: auto;
+}
+
+label {
+    display: block;
+    text-align: center;
+}
+input {
+    display: table-cell;
+}
